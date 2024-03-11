@@ -1,2 +1,2 @@
-# Work
-In this I am going to store all my works related to my internship
+# Bootcamp clone
+This is a clone of Bootcamp.dev website
